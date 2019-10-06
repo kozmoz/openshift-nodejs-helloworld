@@ -1,0 +1,1 @@
+Dummy directory, because the assembly phase wants to copy a directory to /output
